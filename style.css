@@ -1,0 +1,131 @@
+body {
+    
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    min-height: 110vh;
+
+}
+
+.main {
+    height: 100vh;
+    background: url('img/CookingMan.jpg') center center/cover no-repeat;
+    padding: 41px 0;
+}
+
+.logo_text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    color: #e10808;
+    cursor: pointer;
+    padding-right: 40px;
+}
+
+.title_line {
+    width: 285px;
+    height: 4px;
+    background-color: #044b23;
+    margin-top: 1px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+header a {
+    color: white;
+    font-size: 20px;
+    padding-right: 40px;  
+   
+}
+
+.social_links img {
+    padding-right: 2px;
+    padding-left: 3px;
+    width: 30px;
+    height: 30px;
+}
+
+h1 {
+    padding-top: 20px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    margin-top: 120px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.title_text {
+    height: 190px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: white;
+    
+}
+.logo_text2 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    color: #E10808;
+    width: 326px;
+    height: 73px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+}
+.main .main_btn {
+    width: 243px;
+    height: 80px;
+    border-radius: 61px;
+    border: 2px solid #0f0402;
+    box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .1em .1em .2em rgb(24, 22, 22);
+    background: #B50707;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+footer {
+    display: flex ;
+    align-items: center;
+    justify-content: space-between;
+    background: #333131;
+}
+.title_line_footer {
+    height: 4px;
+    background-color: #044b23;
+    margin-top: 1px;
+    width: 283px;
+}
+.social_links_footer img {
+    width: 30px;
+    height: 30px;
+    margin-right: 60px;
+}
+
+
+
