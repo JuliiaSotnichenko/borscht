@@ -166,6 +166,9 @@ h1 {
     align-items: center;
 }
 .sub_footer_delivery {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     position: absolute; /* Position the background text */
     bottom: 0; /* At the bottom. Use top:0 to append it to the top */
     background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
