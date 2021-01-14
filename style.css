@@ -11,7 +11,6 @@ html {
     width: 1140px;
     margin: 0 auto;
     min-height: 110vh;
-
 }
 
 .main {
@@ -20,6 +19,9 @@ html {
     padding: 41px 0;
 }
 
+a {
+    text-decoration: none;
+}
 .logo_text {
     font-style: normal;
     font-weight: bold;
@@ -89,8 +91,8 @@ h1 {
 }
 
 .main .main_btn {
-    width: 243px;
-    height: 80px;
+    width: 211px;
+    height: 70px;
     border-radius: 61px;
     border: 2px solid #0f0402;
     box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .1em .1em .2em rgb(24, 22, 22);
@@ -113,7 +115,7 @@ h1 {
     color: #FFFFFF;
 }
 .footer_item {
-    margin-left: 80px;
+    margin-left: 130px;
     font-size: 15px;
     font-weight: bold;
 }
@@ -175,6 +177,7 @@ h1 {
     color: #FFFFFF; /* Grey text */
     width: 100%;
     vertical-align: baseline;
+    cursor: pointer;
 }
 
 .sub_delivery{
@@ -184,6 +187,7 @@ h1 {
     margin: 0 4px;
     /*width: 32px;*/
     /*height: 32px;*/
+    margin-left: 130px;
 }
 
 
@@ -219,13 +223,15 @@ h1 {
     color: #FFFFFF;
     float: right;
     background-size: cover;
-    background-position: 50%;
-    background-repeat: no-repeat;
+    /*background-position: 50%;*/
+    /*background-repeat: no-repeat;*/
     position: relative;
     z-index: 2;
     min-height: 1px;
     vertical-align: baseline;
     background: transparent;
+    margin-right: 160px;
+    font-size: 20px;
 }
 
 @media (max-width: 992px) {

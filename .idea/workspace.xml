@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="58de61d2-bdbb-4ac1-bd58-ac02fb3cd1fd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +45,29 @@
       <workItem from="1609492568368" duration="11768000" />
       <workItem from="1609616053716" duration="4685000" />
       <workItem from="1609703068674" duration="2191000" />
-      <workItem from="1610027610276" duration="963000" />
+      <workItem from="1610027610276" duration="1227000" />
+      <workItem from="1610224181262" duration="1375000" />
+      <workItem from="1610228948084" duration="1183000" />
+      <workItem from="1610359704848" duration="332000" />
+      <workItem from="1610369506801" duration="1844000" />
+      <workItem from="1610629775157" duration="449000" />
+      <workItem from="1610655298185" duration="1903000" />
     </task>
+    <task id="LOCAL-00001" summary="final">
+      <created>1610038900641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610038900641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
 </project>
