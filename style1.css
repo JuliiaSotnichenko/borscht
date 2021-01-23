@@ -124,10 +124,6 @@ h1 {
      text-align: center;
 }
 
- .main_btn:hover {
-     background-color: #3c6e25;
- }
-
 .footer_wrapper {
     display: flex ;
     align-items: center;
@@ -140,7 +136,6 @@ h1 {
     margin-left: 130px;
     font-size: 20px;
     font-weight: bold;
-    margin-right: 60px;
 }
 
 .footer_item  p {
@@ -241,6 +236,10 @@ h1 {
     justify-content: space-between;
     cursor: pointer;
     padding-right: 50px;
+}
+
+.description {
+    padding-bottom: 20px;
 }
 
 
